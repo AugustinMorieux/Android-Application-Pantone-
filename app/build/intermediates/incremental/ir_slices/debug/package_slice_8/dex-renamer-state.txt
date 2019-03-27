@@ -1,4 +1,0 @@
-#Fri Mar 15 13:09:13 CET 2019
-base.0=/Users/augustinmorieux/Desktop/API_VALIDATION/app/build/intermediates/transforms/dexMerger/debug/8
-path.0=classes.dex
-renamed.0=classes.dex

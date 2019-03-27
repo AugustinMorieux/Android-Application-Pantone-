@@ -10,7 +10,7 @@ Application sous Android studio permettant de connaitre les couleurs associé a 
 Consignes respectées :
 
 * Architecture MVC
-* Appel WebService à  une API Rest.
+* Appel WebService à  une API Rest
 * Recycler View
 * Faire Gitflow
 *  Création d’une API (https://augustinmorieux.github.io/Pantone.Json)
